@@ -2,3 +2,4 @@ theme: minima
 title: The Cryer Corner
 author: Charlie Cryer
 description: Something new
+baseurl: /personal-page
